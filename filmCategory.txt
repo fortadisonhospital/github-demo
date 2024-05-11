@@ -1,3 +1,6 @@
 movies 1
 movies 2
 movies 3
+series 1
+series 2
+series 
